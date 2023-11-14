@@ -135,4 +135,6 @@ To contributors: please add your name to the list when you submit a patch to the
 * **[Zhenhui Xu](https://github.com/motefly)**
    * Reco utils of LightGBM
    * LightGBM notebook quickstart
+* **[Zhenhui Xu](https://github.com/aida-solat)**
+  
     
